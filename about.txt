@@ -1,0 +1,11 @@
+Nama : Mohammad Luqi
+NIM	: 32602000041
+
+Aplikasi ini menggunakan bahasa pemrograman python
+Aplikasi ini menggunakan metode haascade untuk mengenali dan mendeteksi wajah menggunakan webcam atau Foto
+Aplikasi ini menggunakan library opencv, dlib sebagai library untuk mendeteksi wajah,tkinter sebagai gui,
+dan PIL untuk menampilkan image di aplikasi window.
+
+sumber : stackoverflow, youtube, website, github
+https://pyimagesearch.com/2021/01/20/opencv-load-image-cv2-imread/
+https://techtutorialsx.com/2017/05/02/python-opencv-face-detection-and-counting/
